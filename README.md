@@ -6,7 +6,7 @@ to a rocket to record how it reached.
 
 Button A sets the unit to altitude recording mode. Button B exits recording mode and 
 displays the maximum altitude reached with a series of blinks: first the hundreds position,
-then tens, the ones. For example:
+then tens, then ones. For example:
 
     [blink] ... [blink][blink] ... [blink][blink][blink]
 
